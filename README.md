@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eveegardner
 - 👀 I’m interested in understanding everything I don't know I don't understand. 
 - 🌱 I’m currently learning Bioinformatics. 
-- 💞️ I’m looking to collaborate on ways to compute genotypic-phenotypic relationships in Neurodegenerative disease. 
 - 📫 How to reach me via email: Eve.Gardner@VAI.org, on Twitter @EveGardner36. 
 
 <!---
